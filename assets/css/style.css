@@ -1617,7 +1617,7 @@ img {
     width: 8%;
 }
 
-.footer::after {
+/* .footer::after {
     position: absolute;
     content: "";
     background: url(../images/price-shape.png);
@@ -1627,10 +1627,10 @@ img {
     width: 115px;
     height: 125px;
     top: 40%;
-    left: 5%;
+    left: 0%;
     animation: rotateAnimi2 linear 2s infinite alternate;
     -webkit-animation: rotateAnimi2 linear 2s infinite alternate;
-}
+} */
 
 .footer::before {
     position: absolute;

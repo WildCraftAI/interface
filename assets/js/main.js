@@ -2,7 +2,7 @@ $(function () {
 
     "use strict";
 
-    //======MENU FIX JS=======   ¸ü¶àÏÂÔØ£ºHttp://www.bootstrapmb.com
+    //======MENU FIX JS=======   Http://www.bootstrapmb.com
     var navoff = $('.main_menu').offset().top;
     $(window).scroll(function () {
         var scrolling = $(this).scrollTop();
